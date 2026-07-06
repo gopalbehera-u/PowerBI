@@ -1,0 +1,6 @@
+OrderID,CustomerID,Product
+O001,C101,Laptop
+O002,C101,Mouse
+O003,C103,Keyboard
+O004,C105,Monitor
+O005,C106,Printer
